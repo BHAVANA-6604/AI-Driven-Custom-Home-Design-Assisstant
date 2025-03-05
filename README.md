@@ -2,7 +2,8 @@
 Category: Cloud Application Development
 
 # Deploy App Link :
-[https://ai-driven-custom-home-design-assistant-i9hthlcdyt3klwzonpg9vm.streamlit.app/](https://ai-driven-custom-home-design-assistant-lvyimh9rgdzcqbvgsf3yyr.streamlit.app/)
+
+https://xojh4ysnounwh56ovmr7v7.streamlit.app/
 
 # Video Demo:
 
