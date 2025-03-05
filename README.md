@@ -5,10 +5,12 @@ Category: Cloud Application Development
 [https://ai-driven-custom-home-design-assistant-i9hthlcdyt3klwzonpg9vm.streamlit.app/](https://ai-driven-custom-home-design-assistant-lvyimh9rgdzcqbvgsf3yyr.streamlit.app/)
 
 # Video Demo:
-[https://drive.google.com/file/d/1PBE4vxaxba4HhSSg_XmqKJVyiURCWHDR/view?usp=drive_link](https://drive.google.com/file/d/1yT-xIB_-CZgqVUR-f6jYhRLnAydL4LZv/view?usp=sharing)
+
+https://drive.google.com/file/d/1--9jit1blSK0a_OH3EQwrMwdg_Q-rV-f/view?usp=sharing
 
 # Project Document:
-[https://docs.google.com/document/d/1VrhQwrln1sHh4SEblDN8dI6amE2rUcgM/edit?usp=sharing&ouid=116371865846596511140&rtpof=true&sd=true](https://docs.google.com/document/d/1QSUZNfkutdZdg-SqJgR99tEl8AWj99nE/edit?usp=sharing&ouid=100386565694070869716&rtpof=true&sd=true)
+
+https://docs.google.com/document/d/1zXfQs8gd19e6BCLNDdxfiyqua4bglrW-/edit?usp=sharing&ouid=104210373230430024625&rtpof=true&sd=true
 
 Skills Required: Machine Learning
 
